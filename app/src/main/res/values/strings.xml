@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExamenLogin</string>
+    <string name="pantalla_de_login_examen">PANTALLA DE LOGIN \nEXAMEN</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="introduzca_nombre_usuario">Introduzca nombre usuario</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="login">LOGIN</string>
+    <string name="se_ha_logueado_correctamente">Se ha logueado correctamente</string>
+</resources>
